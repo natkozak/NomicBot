@@ -45,5 +45,3 @@ They are nonetheless written below.
 * If a rule change as proposed is unclear, ambiguous, paradoxical, or clearly destructive of play, or if it arguably consists of two or more rule changes compounded, or is an amendment that makes no difference, or if it is otherwise of questionable value, then the other players may suggest amendments or argue against the proposal in the comments during the voting period. The period of debate shall occur for the whole time between the rule proposal and the voting resolution event. The only cure for a bad proposal is prevention: a negative vote.
 
 * There will not be an end to play except as dictated by whether there exists someone to maintain it.
-
-* 
