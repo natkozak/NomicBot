@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The readme will explain how the system works. The readme is not the rules. The readme describes and explains the context in which the rules operate and the technology behind adding, changing, and deleting, rules. 
+The readme will explain how the system works. The readme is not the rules. Instead, it describes and explains the context in which the rules operate and the technology behind adding, changing, and deleting, rules. 
 
-The rules are the code. The only way to interact with the rules is via a pull request. You could update the readme to say that the rules can be updated via smoke signal, but then you would have to figure out a way to get github to recognize a smoke signal as a github actions trigger. We the maintainers do not recommend editing the readme to contain lies, but if it happens anyway, so be it.
+The rules *are* the code, and the only way to interact with the rules is via a pull request. You could update the readme to say that the rules can be updated via smoke signal, but then you would have to figure out a way to get github to recognize a smoke signal as a github actions trigger. We the maintainers do not recommend editing the readme to contain lies, but if it happens anyway, so be it.
 
 
 ## Implicit Rules
