@@ -9,5 +9,5 @@ jobs:
     steps:
       - uses: actions/checkout@v1 
       - uses: ./action-reaction
-        with:
-          REACTION_NUMBER: 0
+        # with:
+        #   REACTION_NUMBER: 0

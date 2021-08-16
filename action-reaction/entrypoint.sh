@@ -1,7 +1,6 @@
 #!/bin/sh -l
 
-# shell script that counts reactions goes here
-
+# produces an array in terminal
 curl \
   -X GET \
   -H "Accept: application/vnd.github.squirrel-girl-preview" \
