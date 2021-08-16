@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1 
-      - uses: ./action-reaction
+      # - uses: ./action-reaction
         # with:
         #   REACTION_NUMBER: 0
