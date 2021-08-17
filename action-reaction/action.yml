@@ -2,12 +2,6 @@ name: "Reactions Counter"
 description: "Count reactions on comments in pull requests for voting"
 author: "natkozak0@gmail.com"
 
-inputs:
-  REACTION_NUMBER:
-    description: "Number of reactions"
-    required: true
-    default: 0
-
 runs:
   using: "docker"
   image: "Dockerfile"

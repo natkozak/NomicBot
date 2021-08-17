@@ -1,7 +1,5 @@
 name: A workflow for my Hello World file
-on: pull_request
-  branches:
-    - main
+on: push
 
 jobs:
   build:
@@ -9,5 +7,3 @@ jobs:
     steps:
       - uses: actions/checkout@v1 
       - uses: ./action-reaction
-        with:
-          REACTION_NUMBER: 0
